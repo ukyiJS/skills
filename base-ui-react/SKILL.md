@@ -11,11 +11,6 @@ description: |
   form validation with Field/Fieldset/Form, using compound component patterns with render props,
   styling with data attributes and CSS variables, or needing headless components with Floating UI
   positioning.
-
-  Keywords: base-ui, @base-ui/react, base ui react, mui base ui, headless components, unstyled
-  components, accessible components, render props, radix alternative, radix migration, floating-ui,
-  positioner, compound components, dialog, select, popover, tooltip, menu, accordion, tabs, toast,
-  combobox, form validation, field, drawer, number field, scroll area, toolbar, navigation menu
 license: MIT
 ---
 
