@@ -5,7 +5,7 @@ Claude Code skills for modern frontend development.
 ## Installation
 
 ```bash
-npx skills add ukyi/skills
+npx skills add ukyiJS/skills
 ```
 
 ## Included Skills
